@@ -1,0 +1,7 @@
+CIK: 1120193
+Company Name: NASDAQ INC 
+Section: MD&A
+Filing Date: 2017-03-01
+
+
+Item 7. Management Discussion and Analysis of Financial Condition and Results of Operations Quantitative and Qualitative Disclosures About Market Risk. Information about quantitative and qualitative disclosures about market risk is incorporated herein by reference from Risk. Item 7A. Quantitative and Qualitative Disclosures About Market See Recently Adopted Accounting Pronouncements, and Recently Issued Accounting Pronouncements, of Note 2, Summary of Significant Accounting Policies, to the consolidated financial statements for further discussion of recently adopted and recently issued accounting pronouncements that are applicable to Nasdaq. 

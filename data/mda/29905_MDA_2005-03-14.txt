@@ -1,0 +1,7 @@
+CIK: 29905
+Company Name: DOVER CORP
+Section: MD&A
+Filing Date: 2005-03-14
+
+
+Item 7, Management's Discussion and Analysis. Management believes that reporting operational working capital (also sometimes called "adjusted working capital"), which is calculated as accounts receivable, plus inventory, less accounts payable, provides a meaningful measure of the Company's operational results by showing the changes caused solely by sales. In addition, management believes that reporting operational working capital and revenues at constant currency, which excludes the positive or negative impact of fluctuations in foreign currency exchange rates, provides a meaningful measure of the Company's operational changes, given the global nature of Dover's businesses. Management also believes that reporting organic sales growth, which excludes the impact of foreign currency exchange rates and the impact of acquisitions, provides a useful comparison of the Company's revenue performance and trends between periods. 

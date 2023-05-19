@@ -1,0 +1,7 @@
+CIK: 1403161
+Company Name: VISA INC 
+Section: MD&A
+Filing Date: 2009-11-20
+
+
+Item 7 Quantitative and qualitative disclosures about market risk are included in Quantitative and Qualitative Disclosures About Market Risk ITEM 7A. Our total defined benefit pension plan assets were $703 million and $624 million at September 30, 2009 and 2008, respectively. Although these assets are not included in our financial statements, a material adverse decline in the value of pension plan assets could result in increases to our pension liability and a reduction to stockholders equity due to an increase in the underfunded status of the plan, increases in pension expense due to a decline in the expected rate of return on plan assets, and increases in required funding. We will continue to monitor the performance of pension plan assets and market conditions as we evaluate the amount of our contribution to the plan for fiscal 2010, which we expect to make in September 2010. 
